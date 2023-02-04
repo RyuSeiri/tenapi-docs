@@ -1,3 +1,4 @@
-# TenAPI Docs
+# tenapi-docs
 
-[TenAPI](https://tenapi.cn) 的文档仓库
+
+
